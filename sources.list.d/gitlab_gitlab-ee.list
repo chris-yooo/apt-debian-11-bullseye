@@ -1,0 +1,2 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/gitlab_gitlab-ee-archive-keyring.gpg] https://packages.gitlab.com/gitlab/gitlab-ee/debian/ bullseye main
+deb-src [signed-by=/etc/apt/trusted.gpg.d/gitlab_gitlab-ee-archive-keyring.gpg] https://packages.gitlab.com/gitlab/gitlab-ee/debian/ bullseye main

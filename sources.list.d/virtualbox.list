@@ -1,0 +1,1 @@
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/oracle-virtualbox-2016.gpg] https://download.virtualbox.org/virtualbox/debian bullseye contrib

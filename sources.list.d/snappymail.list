@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/snappymail.gpg] https://snappymail.eu/repository/deb ./
