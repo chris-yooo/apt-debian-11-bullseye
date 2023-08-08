@@ -1,6 +1,6 @@
-# APT-GET settings 4 Debian 11 (bullseye)
+# APT-GET sources.list + settings 4 Debian 11 (bullseye)
 
-## My personal settings for apt-get
+## My personal settings for apt update
 
 ### Usage
 
